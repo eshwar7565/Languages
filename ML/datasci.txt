@@ -1,0 +1,76 @@
+1 >>>>> Basic Skills
+Programming skills
+ *Python
+*Julia
+
+Statistics and Data Analysis
+*excel
+*R
+
+Basic Coing skills
+*Software Engineering Hygiene
+*Github
+*Scripting and prototyping
+*Rapid Prototyping
+
+
+2>>> Basic Computer Science
+*DSA
+*Distributed Architectures
+*Programming in cloud environment
+*Understanding trade offs
+
+
+3>>>>Data Manipulation
+
+Basic Database skills
+*Relational databases mysql,mariadb,postgres
+*SQL
+
+No SQL Databases
+*graph DB,Document DB,Key-value pairs,Columnar Stores
+
+Big Data Tools
+*Hadoop
+*Spark
+
+Data Manipulation Tools
+*ETL,Pandas,Numpy
+
+
+4>>>>>Machine Learning Algorithms and Techniques
+
+Supervised Learning
+*Classification
+*Regression
+
+Unsupervised Learning
+*Dimension Reduction
+*clustering
+
+Reinforcement Learning
+
+Deep Learning
+
+5>>>>AI tools and Frame works 
+
+*Project Jupyter
+*Google Colab
+*dvc
+*mlflow
+*streamlit
+*plotly
+*Pytorch
+*Tensorflow
+
+
+6>>>>GPT -3
+
+7>>>Working in Hyper scalar cloud AI Environment
+
+Google AutoML   Amazon Sage Maker Studio    Azure ML STudio
+
+8>>>>BUILDING AI models
+
+
+
