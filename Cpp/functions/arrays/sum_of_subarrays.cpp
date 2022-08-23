@@ -1,6 +1,7 @@
 #include"bits/stdc++.h"
 using namespace std;
-int main(){
+int main()
+{
     int n;
     cin>>n;
     int a[n];
@@ -11,10 +12,10 @@ int main(){
     for(int i=0;i<n;i++)
     {
         current=0;
-        for(int j=1;j<n;j++)
+        for(int j=i;j<n;j++)
         {
             current += a[j];
-            cout<<a[j]<<endl;
+            cout<<current<<endl;
         }
     }
     return 0;
