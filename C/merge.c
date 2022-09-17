@@ -25,7 +25,7 @@ void merge(int arr[], int l, int m, int r)
  j = 0; // Initial index of second subarray
  k = l; // Initial index of merged subarray
  while (i < n1 && j < n2) {
-  if (L[i] <= R[j]) {
+  if (L[i] >= R[j]) {
    arr[k] = L[i];
    i++;
   }
@@ -83,7 +83,7 @@ void printArray(int A[], int size)
 /* Driver code */
 int main()
 {
- int arr[] = { 12, 11, 13, 5, 6, 7 };
+ int arr[] = { 12, 11, 13, 5, 6, 7,3};
  int arr_size = sizeof(arr) / sizeof(arr[0]);
 
  printf("Given array is \n");
